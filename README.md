@@ -1,4 +1,4 @@
-# Web Data Extractor
+لو# Web Data Extractor
 
 Web Data Extractor is a lightweight FastAPI application for scraping structured data from web pages and storing results in SQLite. It includes a CLI for running jobs locally and a test suite for validating the scraper and API.
 
